@@ -173,6 +173,7 @@ Le projet a vocation à être enrichi par les Jardins eux-mêmes.
 ## Licence
 
 Le logiciel sera publié sous une **licence libre** (à préciser, par exemple GPL, compatible avec Dolibarr).
+Mais étant alternante cette partie ne sera pas effectuée.
 
 ---
 
