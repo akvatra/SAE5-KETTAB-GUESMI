@@ -56,6 +56,23 @@ Dans les années 2000, un logiciel de « gestion des adhérents » a été déve
 
 ---
 
+## Périmètre de réalisation
+
+Ce projet est réalisé dans le cadre de mon **alternance**. Le cahier des charges décrit un outil complet à l'échelle d'un réseau national, ce qui dépasse le temps et les moyens dont je dispose en tant qu'alternante. **Certaines parties ne sont donc pas prises en charge dans ce dépôt.**
+
+| Partie du cahier des charges | Statut |
+|---|---|
+| Back office (clients, produits, abonnements, règlements) | ☐ Réalisé / ☐ Partiel / ☐ Non réalisé |
+| Front office (espace client) | ☐ Réalisé / ☐ Partiel / ☐ Non réalisé |
+| Feuilles de route de préparation et de livraison | ☐ Réalisé / ☐ Partiel / ☐ Non réalisé |
+| Export comptable | ☐ Réalisé / ☐ Partiel / ☐ Non réalisé |
+| Multi-société et hébergement SaaS centralisé | ☐ Réalisé / ☐ Partiel / ☐ Non réalisé |
+| Aide en ligne et tutoriels vidéo | ☐ Réalisé / ☐ Partiel / ☐ Non réalisé |
+
+> 📌 Les parties non réalisées restent ouvertes et pourront être reprises par d'autres contributeurs du réseau.
+
+---
+
 ## Public cible et utilisateurs
 
 | Profil | Usage | Caractéristiques |
